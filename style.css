@@ -1,0 +1,42 @@
+.StoryPage
+{
+    width: 600px;
+    margin: auto;
+}
+
+h1
+{
+    text-align: center;
+}
+
+p
+{
+    font-size: 20px;
+}
+
+body
+{
+    font-family: arial;
+}
+
+.button
+{
+    background-color: #521414;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.story-image
+{
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
